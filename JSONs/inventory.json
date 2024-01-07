@@ -1,0 +1,428 @@
+[
+    {
+        "itemName": "Spiral Notepad",
+        "vendorName": "Mahalle Traders",
+        "price": 4.99,
+        "quantity": 20
+    },
+    {
+        "itemName": "Ballpoint Pens",
+        "vendorName": "Rohit and Sons",
+        "price": 2.49,
+        "quantity": 50
+    },
+    {
+        "itemName": "Scientific Calculator",
+        "vendorName": "Infodesk Pvt Ltd",
+        "price": 15.99,
+        "quantity": 15
+    },
+    {
+        "itemName": "Watercolor Set",
+        "vendorName": "Trevor Stationaries",
+        "price": 8.99,
+        "quantity": 30
+    },
+    {
+        "itemName": "Chess Set",
+        "vendorName": "Kids and Joy",
+        "price": 24.99,
+        "quantity": 10
+    },
+    {
+        "itemName": "Sketchbook",
+        "vendorName": "Mahalle Traders",
+        "price": 7.49,
+        "quantity": 25
+    },
+    {
+        "itemName": "Gel Pens",
+        "vendorName": "Rohit and Sons",
+        "price": 3.29,
+        "quantity": 40
+    },
+    {
+        "itemName": "Graphing Calculator",
+        "vendorName": "Infodesk Pvt Ltd",
+        "price": 19.99,
+        "quantity": 12
+    },
+    {
+        "itemName": "Colored Markers",
+        "vendorName": "Trevor Stationaries",
+        "price": 5.99,
+        "quantity": 35
+    },
+    {
+        "itemName": "Jigsaw Puzzle",
+        "vendorName": "Kids and Joy",
+        "price": 12.49,
+        "quantity": 18
+    },
+    {
+        "itemName": "Legal Pads",
+        "vendorName": "Mahalle Traders",
+        "price": 6.99,
+        "quantity": 30
+    },
+    {
+        "itemName": "Fountain Pens",
+        "vendorName": "Rohit and Sons",
+        "price": 9.99,
+        "quantity": 22
+    },
+    {
+        "itemName": "Scientific Notebook",
+        "vendorName": "Infodesk Pvt Ltd",
+        "price": 5.49,
+        "quantity": 40
+    },
+    {
+        "itemName": "Oil Pastels",
+        "vendorName": "Trevor Stationaries",
+        "price": 11.99,
+        "quantity": 25
+    },
+    {
+        "itemName": "Rubik's Cube",
+        "vendorName": "Kids and Joy",
+        "price": 7.99,
+        "quantity": 15
+    },
+    {
+        "itemName": "Composition Books",
+        "vendorName": "Mahalle Traders",
+        "price": 4.49,
+        "quantity": 28
+    },
+    {
+        "itemName": "Rollerball Pens",
+        "vendorName": "Rohit and Sons",
+        "price": 2.99,
+        "quantity": 45
+    },
+    {
+        "itemName": "Advanced Calculator",
+        "vendorName": "Infodesk Pvt Ltd",
+        "price": 22.99,
+        "quantity": 10
+    },
+    {
+        "itemName": "Watercolor Paper",
+        "vendorName": "Trevor Stationaries",
+        "price": 9.49,
+        "quantity": 20
+    },
+    {
+        "itemName": "Sudoku Puzzle Book",
+        "vendorName": "Kids and Joy",
+        "price": 14.99,
+        "quantity": 15
+    },
+    {
+        "itemName": "Legal Notepads",
+        "vendorName": "Mahalle Traders",
+        "price": 6.49,
+        "quantity": 35
+    },
+    {
+        "itemName": "Calligraphy Pens",
+        "vendorName": "Rohit and Sons",
+        "price": 10.49,
+        "quantity": 18
+    },
+    {
+        "itemName": "Engineering Paper",
+        "vendorName": "Infodesk Pvt Ltd",
+        "price": 7.99,
+        "quantity": 30
+    },
+    {
+        "itemName": "Crayon Set",
+        "vendorName": "Trevor Stationaries",
+        "price": 3.99,
+        "quantity": 50
+    },
+    {
+        "itemName": "Chess Board",
+        "vendorName": "Kids and Joy",
+        "price": 18.49,
+        "quantity": 12
+    },
+    {
+        "itemName": "Sticky Notes",
+        "vendorName": "Mahalle Traders",
+        "price": 1.99,
+        "quantity": 60
+    },
+    {
+        "itemName": "Highlighter Set",
+        "vendorName": "Rohit and Sons",
+        "price": 4.79,
+        "quantity": 25
+    },
+    {
+        "itemName": "Financial Calculator",
+        "vendorName": "Infodesk Pvt Ltd",
+        "price": 27.99,
+        "quantity": 8
+    },
+    {
+        "itemName": "Acrylic Paint Set",
+        "vendorName": "Trevor Stationaries",
+        "price": 13.99,
+        "quantity": 15
+    },
+    {
+        "itemName": "Puzzle Mat",
+        "vendorName": "Kids and Joy",
+        "price": 9.99,
+        "quantity": 20
+    },
+    {
+        "itemName": "Binder Clips",
+        "vendorName": "Mahalle Traders",
+        "price": 2.49,
+        "quantity": 40
+    },
+    {
+        "itemName": "Erasable Pens",
+        "vendorName": "Rohit and Sons",
+        "price": 5.29,
+        "quantity": 30
+    },
+    {
+        "itemName": "Geometry Set",
+        "vendorName": "Infodesk Pvt Ltd",
+        "price": 11.49,
+        "quantity": 18
+    },
+    {
+        "itemName": "Oil Pastel Paper",
+        "vendorName": "Trevor Stationaries",
+        "price": 8.49,
+        "quantity": 25
+    },
+    {
+        "itemName": "Lego Set",
+        "vendorName": "Kids and Joy",
+        "price": 29.99,
+        "quantity": 10
+    },
+    {
+        "itemName": "Binder Paper",
+        "vendorName": "Mahalle Traders",
+        "price": 3.49,
+        "quantity": 35
+    },
+    {
+        "itemName": "Calligraphy Paper",
+        "vendorName": "Rohit and Sons",
+        "price": 6.99,
+        "quantity": 30
+    },
+    {
+        "itemName": "Marker Set",
+        "vendorName": "Infodesk Pvt Ltd",
+        "price": 4.99,
+        "quantity": 40
+    },
+    {
+        "itemName": "Wooden Puzzle",
+        "vendorName": "Trevor Stationaries",
+        "price": 15.99,
+        "quantity": 15
+    },
+    {
+        "itemName": "Memory Card Game",
+        "vendorName": "Kids and Joy",
+        "price": 8.99,
+        "quantity": 20
+    },
+    {
+        "itemName": "Stapler",
+        "vendorName": "Mahalle Traders",
+        "price": 7.49,
+        "quantity": 25
+    },
+    {
+        "itemName": "Whiteboard Markers",
+        "vendorName": "Rohit and Sons",
+        "price": 4.29,
+        "quantity": 30
+    },
+    {
+        "itemName": "Graph Paper",
+        "vendorName": "Infodesk Pvt Ltd",
+        "price": 2.99,
+        "quantity": 50
+    },
+    {
+        "itemName": "Watercolor Brushes",
+        "vendorName": "Trevor Stationaries",
+        "price": 9.99,
+        "quantity": 15
+    },
+    {
+        "itemName": "Crossword Puzzle Book",
+        "vendorName": "Kids and Joy",
+        "price": 12.99,
+        "quantity": 18
+    },
+    {
+        "itemName": "Desk Organizer",
+        "vendorName": "Mahalle Traders",
+        "price": 15.99,
+        "quantity": 12
+    },
+    {
+        "itemName": "Legal Size Paper",
+        "vendorName": "Rohit and Sons",
+        "price": 6.49,
+        "quantity": 35
+    },
+    {
+        "itemName": "Markers Set",
+        "vendorName": "Infodesk Pvt Ltd",
+        "price": 4.99,
+        "quantity": 40
+    },
+    {
+        "itemName": "Watercolor Brushes",
+        "vendorName": "Trevor Stationaries",
+        "price": 9.99,
+        "quantity": 15
+    },
+    {
+        "itemName": "Jigsaw Puzzle",
+        "vendorName": "Kids and Joy",
+        "price": 14.99,
+        "quantity": 20
+    },
+    {
+        "itemName": "Bookends",
+        "vendorName": "Mahalle Traders",
+        "price": 10.99,
+        "quantity": 25
+    },
+    {
+        "itemName": "Sticky Note Dispenser",
+        "vendorName": "Rohit and Sons",
+        "price": 5.79,
+        "quantity": 30
+    },
+    {
+        "itemName": "Financial Calculator",
+        "vendorName": "Infodesk Pvt Ltd",
+        "price": 24.99,
+        "quantity": 10
+    },
+    {
+        "itemName": "Soft Pastels",
+        "vendorName": "Trevor Stationaries",
+        "price": 11.49,
+        "quantity": 25
+    },
+    {
+        "itemName": "Building Blocks",
+        "vendorName": "Kids and Joy",
+        "price": 17.99,
+        "quantity": 15
+    },
+    {
+        "itemName": "Legal Pads",
+        "vendorName": "Mahalle Traders",
+        "price": 6.99,
+        "quantity": 30
+    },
+    {
+        "itemName": "Felt-tip Pens",
+        "vendorName": "Rohit and Sons",
+        "price": 3.49,
+        "quantity": 45
+    },
+    {
+        "itemName": "Advanced Scientific Calculator",
+        "vendorName": "Infodesk Pvt Ltd",
+        "price": 29.99,
+        "quantity": 8
+    },
+    {
+        "itemName": "Canvas Pad",
+        "vendorName": "Trevor Stationaries",
+        "price": 9.49,
+        "quantity": 20
+    },
+    {
+        "itemName": "Board Games Set",
+        "vendorName": "Kids and Joy",
+        "price": 19.99,
+        "quantity": 12
+    },
+    {
+        "itemName": "Desk Chair",
+        "vendorName": "Mahalle Traders",
+        "price": 49.99,
+        "quantity": 5
+    },
+    {
+        "itemName": "Permanent Markers",
+        "vendorName": "Rohit and Sons",
+        "price": 4.99,
+        "quantity": 40
+    },
+    {
+        "itemName": "Engineering Calculator",
+        "vendorName": "Infodesk Pvt Ltd",
+        "price": 26.99,
+        "quantity": 10
+    },
+    {
+        "itemName": "Pastel Paper",
+        "vendorName": "Trevor Stationaries",
+        "price": 8.99,
+        "quantity": 25
+    },
+    {
+        "itemName": "Puzzle Game",
+        "vendorName": "Kids and Joy",
+        "price": 9.99,
+        "quantity": 20
+    },
+    {
+        "itemName": "Legal Notepads",
+        "vendorName": "Mahalle Traders",
+        "price": 5.99,
+        "quantity": 35
+    },
+    {
+        "itemName": "Calligraphy Pens Set",
+        "vendorName": "Rohit and Sons",
+        "price": 12.49,
+        "quantity": 18
+    },
+    {
+        "itemName": "Architectural Scale",
+        "vendorName": "Infodesk Pvt Ltd",
+        "price": 8.99,
+        "quantity": 30
+    },
+    {
+        "itemName": "Pastel Set",
+        "vendorName": "Trevor Stationaries",
+        "price": 7.99,
+        "quantity": 25
+    },
+    {
+        "itemName": "Puzzle Cube",
+        "vendorName": "Kids and Joy",
+        "price": 10.99,
+        "quantity": 15
+    },
+    {
+        "itemName": "Dry Erase Board",
+        "vendorName": "Mahalle Traders",
+        "price": 14.49,
+        "quantity": 20
+    }
+]

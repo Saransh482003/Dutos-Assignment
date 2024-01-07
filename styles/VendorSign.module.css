@@ -1,0 +1,84 @@
+.all{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  width: 100%;
+  /* background-color: aqua; */
+  background: url("../public/vendorbg.jpg") center center no-repeat;
+  background-size: cover;
+}
+.signers{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  /* align-items: center; */
+  height: 23.5rem;
+  width: 100%;
+
+  /* background-color: aquamarine; */
+}
+.signin{
+  display: flex;
+  flex-direction: column;
+}
+.sign{
+  display: flex;
+  flex-direction: column;
+  width: 15rem;
+  flex-wrap: wrap;
+}
+.header{
+  color: white;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+}
+.label{
+  font-size: 0.8rem;
+  letter-spacing: 0.3rem;
+  color: white;
+}
+.sign input{
+  margin-bottom: 2rem;
+  border-radius: 3rem;
+  outline: 0cap;
+  border: 0rem solid white;
+  height: 1.5rem;
+  width: 15rem;
+  padding: 0.1rem 0.5rem 0.1rem 0.5rem;
+}
+.submit{
+  background-color: transparent;
+  border-radius: 3rem;
+  border: 0.2rem solid white;
+  color: white;
+  cursor: pointer;
+  transition: all 0.2s ease-in-out;
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
+}
+.submit:hover{
+  background-color: white;
+  color: black;
+}
+.nav{
+  display: flex;
+  flex-direction: row-reverse;
+  /* justify-content: center; */
+  align-items: center;
+  height: 3rem;
+  width: 100%;
+  background-color: transparent;
+  color: white;
+  margin-right: 3rem;
+}
+.nav1{
+  display: flex;
+  flex-direction: row;
+  width: max-content;
+  height: max-content;
+  color: white;
+  text-decoration: none;
+  
+}
